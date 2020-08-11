@@ -6,7 +6,7 @@ const FontStyle = (props) =>{
     const { size } = props;
 
     const cssStyle = {
-        'font-size':size
+        'fontSize':size
     }
 
     console.log(classes.font);
